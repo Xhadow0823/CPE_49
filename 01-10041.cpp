@@ -19,6 +19,5 @@ int main (void){
         std::cout << abs(max-min) << std::endl;
     }
 
-
     return 0;
 }
