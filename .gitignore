@@ -2,5 +2,6 @@
 
 *.exe
 
+input.*
 out.*
 .DS_Store
